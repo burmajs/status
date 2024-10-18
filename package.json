@@ -1,0 +1,17 @@
+{
+  "name": "@burmajs/status",
+  "version": "0.1.0",
+  "description": "",
+  "type": "module",
+  "author": "",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burmajs/status.git"
+  },
+  "exports": {
+    "types": "./dist/index.d.ts",
+    "import": "./dist/index.js",
+    "require": "./dist/index.cjs"
+  }
+}
